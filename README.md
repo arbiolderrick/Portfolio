@@ -4,8 +4,7 @@ Summary of Projects
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ~Exploration Analysis - Colleges with Best ROI
-Main Question: Which region in teh U.S offers the most ROI post graduation
-?
+Main Question: Which region in teh U.S offers the most ROI post graduation?
 Using api data from collegescorecard.ed.gov I wanted to see which regions in the U.S contain the colleges with the best ROI. Analysis of this data 
 can showcase trends in jobs in certain states and hireable/competitive majors. 
 -------------------------------------------------------------------------------------------------------------------------------------------

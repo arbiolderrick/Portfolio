@@ -1,5 +1,5 @@
 # Projects
-Projects for resume
+Summary of Projects
 -------------------------------------------------------------------------------------------------------------------------------------------
 ~Housing Prices and Trends
 Summary: Showcasing Housing prices and potential growth trends in the U.S. 
